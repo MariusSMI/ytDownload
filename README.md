@@ -1,2 +1,2 @@
 # ytDownload
-A simple Python Youtube video downloader with CustomTkinter
+A simple Python Youtube video downloader with tkinter
