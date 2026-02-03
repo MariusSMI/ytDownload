@@ -1,7 +1,8 @@
 # ytDownload
 A simple Python <code style="color : red">Youtube</code> video/music downloader with Tkinter and yt-dlp libraries.
 
-⚠️<code style="color : gold">THIS IS ONLY FOR EDUCATIONAL PURPOSES</code>⚠️
+[!WARNING]
+THIS IS ONLY FOR EDUCATIONAL PURPOSES
 
 ## What does this do?
 
