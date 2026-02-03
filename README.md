@@ -5,5 +5,5 @@ A simple Python <code style="color : red">Youtube</code> video/music downloader 
 
 ## What does this do?
 
-- Download <code style="color : red">Youtube</code> music/mp3 and videos/mp4 (For sure, you can paste other non-<code style="color : red">Youtube</code> links also).
+- Download <code style="color : red">Youtube</code> music/mp3 and videos/mp4 (For sure, you can paste other non-<code style="color : red">Youtube</code> links also [see supported sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)).
 - You can download single videos/music and also playlists.
