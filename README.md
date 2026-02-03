@@ -15,9 +15,13 @@ Install ffpmeg and yt-dlp dependencies:
 ```
 sudo apt update
 sudo apt install ffpmeg
+sudo apt install yt-dlp
 ```
 ### Fedora/RHEL
 ```
 sudo dnf install ffpmeg
+sudo dnf install yt-dlp
 ```
-To run the program you just need to type `python main.py` on a terminal.
+Tkinter should be included as a standard library in Python.
+
+To run the program you just need to type `python main.py` in a terminal.
