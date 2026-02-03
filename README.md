@@ -10,7 +10,7 @@ A simple Python $${\color{red}Youtube}$$ video/music downloader with Tkinter, yt
 - You can download single videos/music and also playlists.
 
 ## Requirements
-Install ffpmeg and yt-dlp
+Install ffpmeg and yt-dlp dependencies:
 ### Ubuntu
 ```
 sudo apt update
@@ -20,3 +20,4 @@ sudo apt install ffpmeg
 ```
 sudo dnf install ffpmeg
 ```
+To run the program you just need to type `python main.py` on a terminal.
