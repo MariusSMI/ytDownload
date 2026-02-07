@@ -1,5 +1,5 @@
 # ytDownload
-A simple Python $${\color{red}Youtube}$$ video/music downloader with Tkinter and yt-dlp libraries.
+A simple Python $${\color{red}Youtube}$$ video/music downloader with Tkinter, yt-dlp and subprocess libraries.
 
 >[!WARNING]
 >THIS IS ONLY FOR EDUCATIONAL PURPOSES
@@ -8,3 +8,20 @@ A simple Python $${\color{red}Youtube}$$ video/music downloader with Tkinter and
 
 - Download $${\color{red}Youtube}$$ music/mp3 and videos/mp4 (For sure, you can paste other non - $${\color{red}Youtube}$$ links also, [see supported sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)).
 - You can download single videos/music and also playlists.
+
+## Requirements
+Install ffpmeg and yt-dlp dependencies:
+### Ubuntu
+```
+sudo apt update
+sudo apt install ffpmeg
+sudo apt install yt-dlp
+```
+### Fedora/RHEL
+```
+sudo dnf install ffpmeg
+sudo dnf install yt-dlp
+```
+Tkinter should be included as a standard library in Python.
+
+To run the program you just need to type `python main.py` in a terminal.
